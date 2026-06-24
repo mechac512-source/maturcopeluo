@@ -1,0 +1,56 @@
+[04:52:39] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[04:52:39] [Server thread/INFO]: Loading properties
+[04:52:39] [Server thread/INFO]: Default game type: SURVIVAL
+[04:52:39] [Server thread/INFO]: Generating keypair
+[04:52:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:52:39] [Server thread/INFO]: Using epoll channel type
+[04:52:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:52:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:52:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:52:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:52:40] [Server thread/INFO]: Preparing level "world"
+[04:52:40] [Server thread/INFO]: Loaded 488 advancements
+[04:52:41] [Server thread/INFO]: Preparing start region for level 0
+[04:52:42] [Server thread/INFO]: Preparing spawn area: 6%
+[04:52:43] [Server thread/INFO]: Preparing spawn area: 11%
+[04:52:44] [Server thread/INFO]: Preparing spawn area: 15%
+[04:52:45] [Server thread/INFO]: Preparing spawn area: 19%
+[04:52:46] [Server thread/INFO]: Preparing spawn area: 27%
+[04:52:47] [Server thread/INFO]: Preparing spawn area: 37%
+[04:52:48] [Server thread/INFO]: Preparing spawn area: 47%
+[04:52:49] [Server thread/INFO]: Preparing spawn area: 56%
+[04:52:50] [Server thread/INFO]: Preparing spawn area: 66%
+[04:52:51] [Server thread/INFO]: Preparing spawn area: 74%
+[04:52:52] [Server thread/INFO]: Preparing spawn area: 86%
+[04:52:53] [Server thread/INFO]: Preparing spawn area: 99%
+[04:52:53] [Server thread/INFO]: Done (13.625s)! For help, type "help" or "?"
+[04:52:59] [Server thread/INFO]: Matiroxd64[/127.86.12.98:45577] logged in with entity id 1757 at (-227.5, 78.0, 117.5)
+[04:52:59] [Server thread/INFO]: Matiroxd64 joined the game
+[04:53:00] [Server thread/INFO]: wladikato[/127.159.3.133:35989] logged in with entity id 1758 at (-218.5, 65.0, 106.5)
+[04:53:00] [Server thread/INFO]: wladikato joined the game
+[04:53:00] [Server thread/INFO]: frieloffs67[/127.228.207.8:50713] logged in with entity id 1779 at (-218.5, 63.0, 104.5)
+[04:53:00] [Server thread/INFO]: frieloffs67 joined the game
+[04:53:27] [Server thread/INFO]: markun17[/127.153.232.12:55723] logged in with entity id 2982 at (-229.5, 72.0, 99.5)
+[04:53:27] [Server thread/INFO]: markun17 joined the game
+[04:54:12] [Server thread/INFO]: Opped Matiroxd64
+[04:54:19] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[04:55:00] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
+[04:55:45] [Server thread/INFO]: [Matiroxd64: Set own game mode to Survival Mode]
+[04:56:05] [Server thread/INFO]: [Matiroxd64: Set markun17's game mode to Creative Mode]
+[04:56:24] [Server thread/INFO]: [Matiroxd64: Set markun17's game mode to Survival Mode]
+[04:57:12] [Server thread/INFO]: markun17 has made the advancement [Stone Age]
+[04:57:25] [Server thread/INFO]: markun17 has made the advancement [Getting an Upgrade]
+[04:57:27] [Server thread/INFO]: Matiroxd64 has made the advancement [Stone Age]
+[04:58:31] [Server thread/INFO]: Matiroxd64 has made the advancement [Getting an Upgrade]
+[04:59:04] [Server thread/INFO]: markun17 has made the advancement [Diamonds!]
+[04:59:04] [Server thread/INFO]: [Matiroxd64: Given [Diamond] * 64 to markun17]
+[04:59:44] [Server thread/INFO]: markun17 has made the advancement [Cover Me With Diamonds]
+[04:59:57] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to markun17]
+[05:00:04] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
+[05:00:11] [Server thread/INFO]: Matiroxd64 has made the advancement [Hot Stuff]
+[05:00:29] [Server thread/INFO]: [Matiroxd64: Set own game mode to Survival Mode]
+[05:00:56] [Server thread/INFO]: Matiroxd64 was slain by markun17
+[05:01:04] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
+[05:01:15] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[05:02:05] [Server thread/INFO]: [Matiroxd64: Teleported frieloffs67 to Matiroxd64]
+[05:02:16] [Server thread/INFO]: [Matiroxd64: Teleported markun17 to Matiroxd64]
